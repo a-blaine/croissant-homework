@@ -24,4 +24,8 @@ p {
   a {
     text-decoration: none;
   }
+
+  .hidden {
+    display: none;
+  }
 }
